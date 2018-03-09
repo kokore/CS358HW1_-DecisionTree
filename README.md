@@ -7,7 +7,7 @@ create decision tree from mushroom data (https://www.kaggle.com/uciml/mushroom-c
 - เปิดไฟล์ informationGain.R ทำการเปลี่ยน path source('C:/Program Files/R/entropy.r') เป็น source('C:/โฟลเดอร์ที่เก็บไฟล์/entropy.r')<br /> 
 - เปิดไฟล์ hwlab.R เพือทำงาน <br />
 
-**how to run** <br />
+**How to run** <br />
 - open file TrainID3.R <br /> 
 - change from source('C:/Program Files/R/isPure.r') to source('C:/your folder/isPure.r') <br />
 - change from source('C:/Program Files/R/informationGain.r') to source('C:/your folder/informationGain.r') <br />
